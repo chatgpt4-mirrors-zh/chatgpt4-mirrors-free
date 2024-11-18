@@ -9,7 +9,7 @@
 ## 🌐 国内 ChatGPT 免费中文版镜像网站
 
 - [https://free.chatgpt-mirrors.top/](https://free.chatgpt-mirrors.top/) - **ChatGPT 中文版**，已运营近2年，提供 GPT-4、GPT-3.5、GPT-3 支持，兼具 **AI 绘画功能**。无需注册，扫码即可使用，非常方便！
-- [https://chatgpt.dk82.com/](https://chatgpt.dk82.com/) - 提供 **ChatGPT 4 免费在线使用**，优化了国内用户的访问体验，支持中文输入和响应，且永久免费使用。
+- [https://www.soruxgpt.top/282.html](https://www.soruxgpt.top/282.html) - 提供 **ChatGPT 4 免费在线使用**，优化了国内用户的访问体验，支持中文输入和响应，且永久免费使用。
 
 ## 🚀 为什么选择 ChatGPT 镜像网站？
 
