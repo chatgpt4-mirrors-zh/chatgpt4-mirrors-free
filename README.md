@@ -1,6 +1,6 @@
-#【国内在线免费】国内可用的ChatGPT免费中文版镜像网站整理（2025/5/15）
+#【国内在线免费】国内可用的ChatGPT4.1免费中文版镜像网站整理（2025/5/18）
 
-本站整理了国内可访问的**ChatGPT中文版免费镜像网站**，用户可以在这里找到免费的、稳定的**ChatGPT访问链接**。所有收录网站均支持直接在线使用，方便国内用户快速体验**ChatGPT4.0中文版**。
+本站整理了国内可访问的**ChatGPTo3中文版免费镜像网站**，用户可以在这里找到免费的、稳定的**ChatGPT4.5访问链接**。所有收录网站均支持直接在线使用，方便国内用户快速体验**ChatGPT4.1中文版**。
 
 ##🧐什么是ChatGPT镜像网站？
 
@@ -8,8 +8,8 @@
 
 ##🌐国内ChatGPT免费中文版镜像网站
 
--[https://free.chatgpt-mirrors.top/](https://free.chatgpt-mirrors.top/)-**ChatGPT中文版**，已运营近2年，提供GPT-4、GPT-3.5、GPT-3支持，兼具**AI绘画功能**。无需注册，扫码即可使用，非常方便！
--[https://www.soruxgpt.top/282.html](https://www.soruxgpt.top/282.html)-提供**ChatGPT4免费在线使用**，优化了国内用户的访问体验，支持中文输入和响应，且永久免费使用。
+-[https://free.chatgpt-mirrors.top/](https://free.chatgpt-mirrors.top/)-**ChatGPT中文版**，已运营近2年，提供GPT4.1、GPTo3、GPT4.5支持，兼具**AI绘画功能**。无需注册，扫码即可使用，非常方便！
+-[https://www.soruxgpt.top/282.html](https://www.soruxgpt.top/282.html)-提供**ChatGPT4.1免费在线使用**，优化了国内用户的访问体验，支持中文输入和响应，且永久免费使用。
 
 ##🚀为什么选择ChatGPT镜像网站？
 
